@@ -1,0 +1,6 @@
+student_id,full_name,date_of_birth,gender,class,math_score,literature_score,english_score,physics_score,chemistry_score,biology_score,history_score,geography_score,civic_education_score
+HS001,Nguyễn Văn A,2005-01-15,Nam,10A1,8.5,7.5,8.0,7.0,8.5,7.5,8.0,7.5,8.0
+HS002,Trần Thị B,2005-03-20,Nữ,10A1,7.5,8.5,7.0,8.0,7.5,8.0,7.5,8.0,7.5
+HS003,Lê Văn C,2005-06-10,Nam,10A2,8.0,7.0,8.5,7.5,8.0,7.0,8.5,7.0,8.5
+HS004,Phạm Thị D,2005-09-25,Nữ,10A2,7.0,8.0,7.5,8.5,7.0,8.5,7.0,8.5,7.0
+HS005,Hoàng Văn E,2005-12-05,Nam,10A3,8.5,7.5,8.0,7.0,8.5,7.5,8.0,7.5,8.0 

@@ -1,0 +1,54 @@
+{
+  "documents": [
+    {
+      "studentId": "SV001",
+      "name": "Nguyễn Văn A",
+      "faculty": "Công nghệ thông tin",
+      "subject": "Lập trình Web",
+      "originalExamDate": "2024-01-15",
+      "recoveryExamDate": "2024-02-15",
+      "reason": "Bị ốm",
+      "status": "approved"
+    },
+    {
+      "studentId": "SV002",
+      "name": "Trần Thị B",
+      "faculty": "Điện tử viễn thông",
+      "subject": "Mạch điện tử",
+      "originalExamDate": "2024-01-16",
+      "recoveryExamDate": "2024-02-16",
+      "reason": "Có việc gia đình",
+      "status": "pending"
+    },
+    {
+      "studentId": "SV003",
+      "name": "Lê Văn C",
+      "faculty": "Cơ khí",
+      "subject": "Cơ học kỹ thuật",
+      "originalExamDate": "2024-01-17",
+      "recoveryExamDate": "2024-02-17",
+      "reason": "Thiếu giấy tờ",
+      "status": "rejected"
+    },
+    {
+      "studentId": "SV004",
+      "name": "Phạm Thị D",
+      "faculty": "Công nghệ thông tin",
+      "subject": "Cơ sở dữ liệu",
+      "originalExamDate": "2024-01-18",
+      "recoveryExamDate": "2024-02-18",
+      "reason": "Bị ốm",
+      "status": "approved"
+    },
+    {
+      "studentId": "SV005",
+      "name": "Hoàng Văn E",
+      "faculty": "Điện tử viễn thông",
+      "subject": "Vi xử lý",
+      "originalExamDate": "2024-01-19",
+      "recoveryExamDate": "2024-02-19",
+      "reason": "Có việc gia đình",
+      "status": "pending"
+    }
+  ]
+} 

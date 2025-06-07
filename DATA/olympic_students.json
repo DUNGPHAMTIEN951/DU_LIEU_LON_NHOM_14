@@ -1,0 +1,54 @@
+{
+  "documents": [
+    {
+      "studentId": "SV001",
+      "name": "Nguyễn Văn A",
+      "faculty": "Công nghệ thông tin",
+      "subject": "Lập trình",
+      "examDate": "2024-03-15",
+      "examTime": "08:00",
+      "examLocation": "Phòng A101",
+      "status": "registered"
+    },
+    {
+      "studentId": "SV002",
+      "name": "Trần Thị B",
+      "faculty": "Điện tử viễn thông",
+      "subject": "Mạch điện tử",
+      "examDate": "2024-03-16",
+      "examTime": "13:30",
+      "examLocation": "Phòng B203",
+      "status": "registered"
+    },
+    {
+      "studentId": "SV003",
+      "name": "Lê Văn C",
+      "faculty": "Cơ khí",
+      "subject": "Cơ học",
+      "examDate": "2024-03-17",
+      "examTime": "08:00",
+      "examLocation": "Phòng C305",
+      "status": "registered"
+    },
+    {
+      "studentId": "SV004",
+      "name": "Phạm Thị D",
+      "faculty": "Công nghệ thông tin",
+      "subject": "Cơ sở dữ liệu",
+      "examDate": "2024-03-18",
+      "examTime": "13:30",
+      "examLocation": "Phòng A101",
+      "status": "registered"
+    },
+    {
+      "studentId": "SV005",
+      "name": "Hoàng Văn E",
+      "faculty": "Điện tử viễn thông",
+      "subject": "Vi xử lý",
+      "examDate": "2024-03-19",
+      "examTime": "08:00",
+      "examLocation": "Phòng B203",
+      "status": "registered"
+    }
+  ]
+} 

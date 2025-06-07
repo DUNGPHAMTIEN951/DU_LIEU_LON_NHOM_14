@@ -1,0 +1,49 @@
+{
+  "documents": [
+    {
+      "studentId": "SV001",
+      "name": "Nguyễn Văn A",
+      "faculty": "Công nghệ thông tin",
+      "semester": "2023-2",
+      "amount": 5000000,
+      "dueDate": "2024-02-15",
+      "status": "urgent"
+    },
+    {
+      "studentId": "SV002",
+      "name": "Trần Thị B",
+      "faculty": "Điện tử viễn thông",
+      "semester": "2023-2",
+      "amount": 4500000,
+      "dueDate": "2024-02-20",
+      "status": "warning"
+    },
+    {
+      "studentId": "SV003",
+      "name": "Lê Văn C",
+      "faculty": "Cơ khí",
+      "semester": "2023-2",
+      "amount": 4800000,
+      "dueDate": "2024-02-25",
+      "status": "pending"
+    },
+    {
+      "studentId": "SV004",
+      "name": "Phạm Thị D",
+      "faculty": "Công nghệ thông tin",
+      "semester": "2023-2",
+      "amount": 5000000,
+      "dueDate": "2024-03-01",
+      "status": "urgent"
+    },
+    {
+      "studentId": "SV005",
+      "name": "Hoàng Văn E",
+      "faculty": "Điện tử viễn thông",
+      "semester": "2023-2",
+      "amount": 4500000,
+      "dueDate": "2024-03-05",
+      "status": "warning"
+    }
+  ]
+} 

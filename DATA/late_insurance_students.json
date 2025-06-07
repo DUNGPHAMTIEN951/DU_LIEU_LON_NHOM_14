@@ -1,0 +1,54 @@
+{
+  "documents": [
+    {
+      "studentId": "SV001",
+      "name": "Nguyễn Văn A",
+      "faculty": "Công nghệ thông tin",
+      "paymentDate": "2024-02-15",
+      "amount": 1500000,
+      "insuranceNumber": "BHYT001",
+      "validityDate": "2024-12-31",
+      "lateDays": 15
+    },
+    {
+      "studentId": "SV002",
+      "name": "Trần Thị B",
+      "faculty": "Điện tử viễn thông",
+      "paymentDate": "2024-02-20",
+      "amount": 1500000,
+      "insuranceNumber": "BHYT002",
+      "validityDate": "2024-12-31",
+      "lateDays": 20
+    },
+    {
+      "studentId": "SV003",
+      "name": "Lê Văn C",
+      "faculty": "Cơ khí",
+      "paymentDate": "2024-02-25",
+      "amount": 1500000,
+      "insuranceNumber": "BHYT003",
+      "validityDate": "2024-12-31",
+      "lateDays": 25
+    },
+    {
+      "studentId": "SV004",
+      "name": "Phạm Thị D",
+      "faculty": "Công nghệ thông tin",
+      "paymentDate": "2024-03-01",
+      "amount": 1500000,
+      "insuranceNumber": "BHYT004",
+      "validityDate": "2024-12-31",
+      "lateDays": 30
+    },
+    {
+      "studentId": "SV005",
+      "name": "Hoàng Văn E",
+      "faculty": "Điện tử viễn thông",
+      "paymentDate": "2024-03-05",
+      "amount": 1500000,
+      "insuranceNumber": "BHYT005",
+      "validityDate": "2024-12-31",
+      "lateDays": 35
+    }
+  ]
+} 
