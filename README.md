@@ -1,6 +1,9 @@
 # DU_LIEU_LON_NHOM_14
 
-Hệ thống quản lý sinh viên và bảo hiểm y tế
+Hệ thống quản lý sinh viên theo các mẫu có sẵn
+
+Phạm Tiến Dũng 2221050669
+Phạm Thanh Sơn 2221050627
 
 ## Tính năng chính
 
@@ -86,14 +89,4 @@ npm start
 └── docker-compose.yml
 ```
 
-## Đóng góp
 
-1. Fork project
-2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
-3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
-4. Push lên branch (`git push origin feature/AmazingFeature`)
-5. Tạo Pull Request
-
-## Giấy phép
-
-MIT License 
